@@ -1,7 +1,7 @@
 ---
 title: Every developer should have a blog. Here’s why, and how to stick with it
 date: 2019-08-17T07:00:00+02:00
-description: "A blog is useful for many reasons. In this post I highlight my thoughs on this topic."
+description: "A blog is useful for many reasons. In this post I highlight my thoughts on this topic."
 tags: lab
 ---
 
